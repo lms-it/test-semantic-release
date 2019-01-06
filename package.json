@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/lms99/test-release.git"
+    "url": "https://github.com/lms-it/test-semantic-release.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/lms99/test-release#readme",
+  "homepage": "https://github.com/lms-it/test-semantic-release#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   },
